@@ -1,25 +1,11 @@
 ### Hi there 👋
 
-<!--
-**ilonayoyoo/ilonayoyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-*   My name is you wu
+####  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+*   My name is You Wu
 *   RPA & Machine Learning Developer
 * 🔍 During my tenure at EY, one of the leading global professional services firms, I honed my skills in RPA development, automating complex business processes to drive efficiency and innovation. I had the unique opportunity to integrate ML algorithms into various projects. 🚀 I'm fascinated by the intersection of RPA and ML. The synergy between these technologies is immense, and I am continually exploring ways to leverage this to solve challenging problems. I enjoy experimenting with different ML models, and it's thrilling to see the results they yield in both professional and personal projects.
 
-* 🌍  I'm based in New York
+* 🌍  Based in New York
 * ✉️  You can contact me at [yw4113@columbi.edu](mailto:yw4113@columbi.edu)
 * 🧠  I'm learning Neural Network, Graph ML
 * 🤝  I'm open to collaborating on RPA & AI LLM projects
